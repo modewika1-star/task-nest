@@ -2,7 +2,7 @@
 
 # TaskNest | JavaScript Task Manager
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://task-manager-js-2-mjs.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://task-manager-js-rouge.vercel.app/)
 
 ### Add tasks, organize their status, and manage your list in one place.
 
